@@ -11,7 +11,7 @@ In general run the following command in your terminal to get the results of your
 ```
 rspec file_name.rb
 ```
-Or you could open the folder you just cloned in your terminal and run the command rspec.
+If you want to run all the test at the same time just open the sparta_nasa_api_som folder in your terminal and run the command rspec.
 ```
 
 ## Built With
